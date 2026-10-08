@@ -1,0 +1,8 @@
+snowflake/
+target/
+dbt_packages/
+logs/
+venv/
+.env/
+*.p8
+.user.yml
